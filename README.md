@@ -49,7 +49,7 @@ cd /path/to/this/project
 mkdir build && cd build
 cmake ..
 make -j4
-./ExamlpeYAML ../data/
+./ExamlpeYAML ../Data/
 ```
 
 ## 5. Usage
