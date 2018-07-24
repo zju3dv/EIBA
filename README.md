@@ -42,7 +42,7 @@ sudo make install
 
 The project has been tested in ubuntu 16.04.
 
-Then you can build and run example: 
+You can build and run example: 
 
 ```bash
 cd /path/to/this/project
