@@ -76,7 +76,7 @@ Besides, we also provide a function `PushFrameInfoFromYAML(*)`, which can be use
 
   - relative pose of frame constraint![](http://latex.codecogs.com/gif.latex?T_{12})and covariance
 
-- The function minimize the energy of ![](http://latex.codecogs.com/gif.latex?C_1 C_2^{-1}T_{12}) 
+- The function minimize the energy of ![](http://latex.codecogs.com/gif.latex?C_1C_2^{-1}T_{12}) 
 
 #### `Optimize(optKFs)`
 
